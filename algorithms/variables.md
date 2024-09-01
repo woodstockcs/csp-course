@@ -1,7 +1,8 @@
 ---
-title: 1 Hello World
-parent: 2 Variables
+title: Skill 3. Something
+parent: Algorithms
 nav_order: 1
+layout: default
 ---
 
 # Task 1: Notice and Wonder

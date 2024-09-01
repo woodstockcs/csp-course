@@ -1,7 +1,7 @@
 ---
-title: Skill 1. Variables
-parent: Python
-nav_order: 1
+title: Skill 4. Something else
+parent: Algorithms
+nav_order: 2
 layout: default
 ---
 

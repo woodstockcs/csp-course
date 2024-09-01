@@ -1,7 +1,7 @@
 ---
-title: Skill 1. Variables
+title: Skill 2. Flow
 parent: Python
-nav_order: 1
+nav_order: 2
 layout: default
 ---
 

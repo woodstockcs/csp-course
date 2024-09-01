@@ -7,12 +7,6 @@ repository: woodstockcs/csp-course
 
 permalink: pretty
 
-defaults:
-  - scope:
-      path: '' # This applies to all files
-    values:
-      layout: 'default'
-
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
   - .sass-cache/

@@ -1,6 +1,6 @@
 ---
-title: Python
-nav_order: 2
+title: Algorithms
+nav_order: 3
 has_children: true
 layout: default
 ---
