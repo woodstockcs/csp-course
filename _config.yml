@@ -1,9 +1,9 @@
-title: WCS Principles
+title: CSP Class Docs
 description: Course materials for AP Computer Science Principles at WUHSMS.
 theme: just-the-docs
 baseurl: ''
-url: 'https://woodstockcs.github.io/csp-course'
-repository: woodstockcs/csp-course
+url: 'https://woodstockcs.github.io/csp-class-docs'
+repository: woodstockcs/csp-class-docs
 
 permalink: pretty
 
