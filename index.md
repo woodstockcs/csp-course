@@ -8,8 +8,10 @@ layout: home
 
 This is the CSP Class Docs. It is a website that houses all the documents and resources used by the AP Computer Science Principles (CSP) class at Woodstock Union High School Middle School (WUHSMS) for the 2024-2025 school year.
 
-{: .highlight}
-A detailed syllabus lives [here](https://docs.google.com/document/d/13gz4-Zm7xoDnXxb6Gx7-lF2RUrbFVSBX8860Ec7cW4M/preview). Below are highlights from it.
+<!---
+{: .note}
+A detailed syllabus lives [here](https://docs.google.com/document/d/13gz4-Zm7xoDnXxb6Gx7-lF2RUrbFVSBX8860Ec7cW4M/preview). Parts of it are extracted below.
+-->
 
 # What we're learning
 
@@ -55,7 +57,7 @@ There is always more AP CSP to do. We make use of time outside of class to:
 
 The exam for AP Computer Science Principles is on May 15, 2025. You'll have 3 hours to answer 70 multiple choice questions and 2 short essay questions. The essay questions will be ask you to write about a coding project that you'll create _during classtime_ well before the exam. The College Board requires you send them that project by April 30, 2025.
 
-{: .highlight}
+{: .note}
 Find more details about the exam at the College Board page [linked here](https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment)
 
 # Grading
@@ -75,13 +77,4 @@ If you're in this class, you're part of a community of people who spend a lot of
 That understanding reveals some _shared values_, and those shared values drive our _agreements_. We all depend on you to stick to those agreements, which helps our classroom be a wonderful place to learn.
 
 {: .note}
-Near the start of the school year we will figure out our shared values and agreements.
-
-# Tools
-
-Here are the places we spend time online:
-
-- [Google Classroom](https://classroom.google.com/c/NzA4MjAxNTg5MTUx)
-- [Github](https://www.github.com)
-- [VS Code](https://www.cs50.dev)
-- [Khan Academy](https://www.khanacademy.com)
+Near the start of the school year we will figure out our shared values and agreements, and list them here.
