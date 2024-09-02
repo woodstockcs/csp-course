@@ -1,5 +1,5 @@
 ---
-title: Skill 1. Variables
+title: Skill 1. CLI
 parent: Python
 nav_order: 1
 layout: default
