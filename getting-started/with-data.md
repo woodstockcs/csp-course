@@ -5,49 +5,11 @@ nav_order: 2
 layout: default
 ---
 
-# Getting Started
+# Getting Started With Data
 
-This short unit is all about:
+This page is part of our [Getting Started](../) unit. Head there to see more.
 
-- getting to know what this class is about
-- and getting ready to start.
-
-We'll spend a few days on this. There is no assessment.
-
-# Daily Slides and Announcements
-
-<iframe src="https://docs.google.com/presentation/d/1uJYfM-QrXrvU0hYmmlBdVukozOFL2SjtzZf5NLQ6ft8/embed?start=false&loop=false" frameborder="1" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-# Resources
-
-## ... About This Class ...
-
-### Be Proud of Your Name
-
-### About You
-
-Complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScHn0jnRI-LFoaxY4xIqheIUgCwvAxQUGn_B9VBkJcwVwywXA/viewform) to help me be a better teacher for you.
-
-### Review the Draft Syllabus
-
-### Get set up online
-
-1. Join our Google Classroom using [this link](https://classroom.google.com/c/NzA4MjAxNTg5MTUx?cjc=3nucnyg)
-1. Create an account on [Github](https://www.github.com). Skip all the demographic / interest questions.
-1. Log in to [VS Code](https://www.cs50.dev). Allow access to your github account. The first login takes a little time while it gets set up.
-1. Join our class on Khan Academy using [this link](https://www.khanacademy.org/join/FGWYRWRV)
-
-## ... About Bits ...
-
-### Figuring Out Binary
-
-### Noticing Patterns in Binary
-
-### ASCII & Unicode
-
-## ... About Code ...
-
-### Ten Things
+# Figuring Out Binary
 
 {: .highlight-title}
 
@@ -55,76 +17,14 @@ Complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScHn0jnRI-LFoaxY4x
 >
 > This is a paper exercise handed out in class. Here's a digital copy.
 >
-> <iframe src="https://drive.google.com/file/d/1UWucnucE0gzNZwyc-XXkAhEkfK5KEGYb/preview" width="100%" height="300"></iframe>
+> <iframe src="https://drive.google.com/file/d/1i0sK9RyEE-DKFeSmq1_k4LHiJ-OgxVfZ/preview" width="100%" height="300"></iframe>
 
-### Command Line Basics
+# Noticing Patterns in Binary
 
-### Organize the Fridge
+With a partner, collect observations about patterns you notice in the binary chart above. Write them on a whiteboard without writing any words.
 
-### Terminus
+# ASCII & Unicode
 
----
+Watch selected parts in 28:00 - 40:24 of this video.
 
-title: Getting Started
-nav_order: 2
-layout: default
-
----
-
-# Getting Started
-
-This short unit is all about:
-
-- getting to know what this class is about
-- and getting ready to start.
-
-We'll spend a few days on this. There is no assessment.
-
-# Daily Slides and Announcements
-
-<iframe src="https://docs.google.com/presentation/d/1uJYfM-QrXrvU0hYmmlBdVukozOFL2SjtzZf5NLQ6ft8/embed?start=false&loop=false" frameborder="1" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-# Resources
-
-## ... About This Class ...
-
-### Be Proud of Your Name
-
-### About You
-
-Complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScHn0jnRI-LFoaxY4xIqheIUgCwvAxQUGn_B9VBkJcwVwywXA/viewform) to help me be a better teacher for you.
-
-### Review the Draft Syllabus
-
-### Get set up online
-
-1. Join our Google Classroom using [this link](https://classroom.google.com/c/NzA4MjAxNTg5MTUx?cjc=3nucnyg)
-1. Create an account on [Github](https://www.github.com). Skip all the demographic / interest questions.
-1. Log in to [VS Code](https://www.cs50.dev). Allow access to your github account. The first login takes a little time while it gets set up.
-1. Join our class on Khan Academy using [this link](https://www.khanacademy.org/join/FGWYRWRV)
-
-## ... About Bits ...
-
-### Figuring Out Binary
-
-### Noticing Patterns in Binary
-
-### ASCII & Unicode
-
-## ... About Code ...
-
-### Ten Things
-
-{: .highlight-title}
-
-> Note
->
-> This is a paper exercise handed out in class. Here's a digital copy.
->
-> <iframe src="https://drive.google.com/file/d/1UWucnucE0gzNZwyc-XXkAhEkfK5KEGYb/preview" width="100%" height="300"></iframe>
-
-### Command Line Basics
-
-### Organize the Fridge
-
-### Terminus
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/3LPJfIKxwWc?si=S8l6-Bty8plaiKDg&amp;start=1680&end=2424" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,19 +1,19 @@
 ---
-title: Home (DRAFT)
+title: Home
 nav_order: 1
 layout: home
 ---
 
-# Home (DRAFT)
+# Home
 
 This is the CSP Class Docs. It is a website that houses all the documents and resources used by the AP Computer Science Principles (CSP) class at Woodstock Union High School Middle School (WUHSMS) for the 2024-2025 school year.
 
 {: .warning}
-This home page and the [syllabus on which it is based](https://docs.google.com/document/d/13gz4-Zm7xoDnXxb6Gx7-lF2RUrbFVSBX8860Ec7cW4M/preview) are still in _draft_ form. They will be finalized after a feedback cycle with students.
+This home page is based on our syllabus, which is still a _draft_. After a feedback cycle with students, the finalized syllabus will be linked here and this page will be updated where needed.
 
 <!--
 {: .note}
-This sections below are based on [our class syllabus](https://docs.google.com/document/d/13gz4-Zm7xoDnXxb6Gx7-lF2RUrbFVSBX8860Ec7cW4M/preview), which was finalized on [date] after a feedback cycle with students.
+The sections below are based on [our class syllabus](https://docs.google.com/document/d/13gz4-Zm7xoDnXxb6Gx7-lF2RUrbFVSBX8860Ec7cW4M/preview), which was finalized on [date] after a feedback cycle with students.
 -->
 
 # What we learn
