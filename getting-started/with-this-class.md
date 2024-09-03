@@ -22,7 +22,7 @@ This page is part of our [Getting Started](../) unit. Head there to see more.
 
 Complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScHn0jnRI-LFoaxY4xIqheIUgCwvAxQUGn_B9VBkJcwVwywXA/viewform) to help me be a better teacher for you.
 
-After the due date, we'll have a look at some anonymous summary data (see the [Daily Slides](../#daily-slides)).
+Anonymous summary data is available in the [Daily Slides](../#daily-slides)).
 
 ## Review the Draft Syllabus
 
