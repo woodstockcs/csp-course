@@ -33,4 +33,4 @@ Complete "[Get Set Up Online](../with-this-class/#get-set-up-online)" before con
 
 # Terminus
 
-... coming soon
+[link](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
