@@ -73,11 +73,12 @@ Your grade is based on these Anchor Standards: Citizenship, Testing and Refining
 |             **Testing and Refining** | your ability to apply basic technical skills when _reading and fixing code_                                                 | _skill quizzes_, in which you are given a block of code to describe and change according to a specific standard without using notes or other resources | quizzes are offered on specific days in class, but our abilities improve over time, so _infinite retakes are available for a period of time_ |
 | **Creating Computational Artifacts** | your ability to design and build _projects that are useful_ for other people                                                | _project specifications_, which are checklists you use to verify that your project contains all the required components                                | projects exist to help people and projects only get good after cycles of feedback, so _late revisions are accepted for a period of time_.    |
 
+
 # Values and Agreements
 
 If you're in this class, you're part of a community of people who spend a lot of time together. Each of us brings our personal values into the room, and for our room to function well we need to understand each others' personal values.
 
 That understanding reveals some _shared values_, and those shared values drive our _agreements_. We all depend on you to stick to those agreements, which helps our classroom be a wonderful place to learn.
 
-{: .note}
-Near the start of the school year we will figure out our shared values and agreements, and list them here.
+In Week 2 of school, this class identified the following values as important to us.
+![c-csp-values-2425](https://github.com/user-attachments/assets/cf4b0a62-d0e8-4dae-9f05-a5dfc1ef79de){: width="50%"}
