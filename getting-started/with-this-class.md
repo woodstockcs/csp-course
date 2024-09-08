@@ -37,6 +37,6 @@ A draft of our syllabus is [linked here](https://docs.google.com/document/d/13gz
 1. Log in to [VS Code](https://www.cs50.dev). Allow access to your github account. The first login takes a little time while it gets set up.
 1. Join our class on Khan Academy using [this link](https://www.khanacademy.org/join/FGWYRWRV).
 
-## Review the Draft Syllabus
+## Syllabus Feedback
 
-... coming soon ...
+1. Complete [Syllabus Feedback #1](https://docs.google.com/document/d/12O-bu01Qg1KLNsTvzMEXq2wTfxSKlT4xtWUn7FrC7zw/edit)
