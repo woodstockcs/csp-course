@@ -16,7 +16,7 @@ This is a paper exercise handed out in class. Here's a digital copy.
 
 <iframe src="https://drive.google.com/file/d/1UWucnucE0gzNZwyc-XXkAhEkfK5KEGYb/preview" width="100%" height="300"></iframe>
 
-# VS Code Lecture
+# VS Code Lecture Notes
 
 {: .important}
 Complete "[Get Set Up Online](../with-this-class/#get-set-up-online)" before continuing here.
@@ -27,10 +27,31 @@ Complete "[Get Set Up Online](../with-this-class/#get-set-up-online)" before con
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Oi1lvJS4uS8?si=J26U13g-oKg-nl-B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Organize the Fridge
+# VS Code Practice
 
-... coming soon
+### Clean up the Kitchen
 
-# Terminus
+1. Log in to VS Code. In a terminal type this:
 
-[link](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+{% highlight bash %}
+wget https://github.com/woodstockcs/kitchen/archive/main.zip;unzip main.zip;mv kitchen-main kitchen
+{% endhighlight %}
+
+1. Look around the kitchen. If you see a cockroach, remove it. (There are 2 of them.)
+1. Move all the files into their correct folders.
+1. Make a new directory called "closet" alongside the fridge and freezer. This means that `ls` should show: closet freezer fridge
+1. Create three new files in the closet. Give them a ".txt" extension, like: pasta.txt
+
+### Hello
+
+1. Type `cd`. This takes you to your home directory, no matter where you are.
+1. Type `ls` to confirm. You should see just the kitchen directory.
+1. Make a new directory called `u1-python`.
+1. `cd` into that directory and type `code hello.py`.
+1. Write a short python program that prints hello world. (Feel free to add a creative touch.)
+
+### Terminus
+
+- Try [link](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html).
+
+### Fun With Linux
