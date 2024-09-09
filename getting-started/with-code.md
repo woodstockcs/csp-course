@@ -31,27 +31,41 @@ Complete "[Get Set Up Online](../with-this-class/#get-set-up-online)" before con
 
 ### Clean up the Kitchen
 
-1. Log in to VS Code. In a terminal type this:
+1. Log in to VS Code.
+1. In the terminal type these commands, one line at a time:
 
 {% highlight bash %}
-wget https://github.com/woodstockcs/kitchen/archive/main.zip;unzip main.zip;mv kitchen-main kitchen
+wget https://github.com/woodstockcs/kitchen/archive/main.zip
+unzip main.zip
+mv kitchen-main kitchen
+cd kitchen
 {% endhighlight %}
 
-1. Look around the kitchen. If you see a cockroach, remove it. (There are 2 of them.)
+3. Type `ls` and look around the kitchen. If you see a cockroach, remove it. (There are 2 of them.)
 1. Move all the files into their correct folders.
-1. Make a new directory called "closet" alongside the fridge and freezer. This means that `ls` should show: closet freezer fridge
-1. Create three new files in the closet. Give them a ".txt" extension, like: pasta.txt
+1. Make a new directory called `closet` alongside the fridge and freezer. This means that `ls` should show: `closet freezer fridge`
+1. Create three new files in the closet. Give them a `.txt` extension, like `pasta.txt`
 
 ### Hello
 
 1. Type `cd`. This takes you to your home directory, no matter where you are.
 1. Type `ls` to confirm. You should see just the kitchen directory.
-1. Make a new directory called `u1-python`.
+1. Make a new directory called `1-python`. (that's a ONE, not an L).
 1. `cd` into that directory and type `code hello.py`.
 1. Write a short python program that prints hello world. (Feel free to add a creative touch.)
 
 ### Terminus
 
-- Try [link](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html).
+- Try [this game](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html).
+- Here's an [info page](https://www.mprat.org/projects/terminus/) by the dev Michele Pratusevich
 
 ### Fun With Linux
+
+1. In a terminal type these commands, one line at a time:
+   {% highlight bash %}
+   cd
+   sudo apt-get update
+   sudo apt-get install cowsay
+   cowsay Mr. Smith rocks.
+   cowsay Huh...
+   {% endhighlight %}
