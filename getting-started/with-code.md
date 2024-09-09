@@ -29,7 +29,7 @@ Complete "[Get Set Up Online](../with-this-class/#get-set-up-online)" before con
 
 # VS Code Practice
 
-### Clean up the Kitchen
+### Kitchen
 
 1. Log in to VS Code.
 1. In the terminal type these commands, one line at a time:
@@ -54,12 +54,12 @@ cd kitchen
 1. `cd` into that directory and type `code hello.py`.
 1. Write a short python program that prints hello world. (Feel free to add a creative touch.)
 
-### Terminus
+### Games
 
-- Try [this game](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html).
-- Here's an [info page](https://www.mprat.org/projects/terminus/) by the dev Michele Pratusevich
+- Try [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html). Here's it's [info page](https://www.mprat.org/projects/terminus/) by the dev Michele Pratusevich.
+- Try [Command Challenge](https://cmdchallenge.com/).
 
-### Fun With Linux
+### Cowsay
 
 1. In a terminal type these commands, one line at a time:
    {% highlight bash %}
