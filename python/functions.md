@@ -4,6 +4,11 @@ parent: Python
 nav_order: 1
 layout: default
 ---
+# On this page:
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 # Lesson 1: Functions
 
