@@ -7,7 +7,7 @@ layout: default
 # On this page:
 {: .no_toc }
 
-1. TOC
+- TOC
 {:toc}
 
 # Lesson 1: Functions
