@@ -145,3 +145,7 @@ In your `1-python` directory, create one or more custom calculator programs.
 1. Complete the notes while you watch from 41:03 to 53:36 of this David Malan lecture on Functions (~13 min).
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/JP7ITIXGpHk?start=2463&end=3216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Practice Set on String Functions
+... coming soon: REFRESH YOUR PAGE to see if it's here already ...
+
