@@ -147,5 +147,35 @@ In your `1-python` directory, create one or more custom calculator programs.
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/JP7ITIXGpHk?start=2463&end=3216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Practice Set on String Functions
-... coming soon: REFRESH YOUR PAGE to see if it's here already ...
+
+### Hello 3
+
+If you are feeling:
+{: .d-inline-block }
+
+Less Comfy
+{: .label .label-green }
+
+Write and run one of the programs shown in the lecture that uses `.split()` and `.title()`.
+
+### Indoor Voice
+
+If you are feeling:
+{: .d-inline-block }
+
+Mixed
+{: .label .label-yellow }
+
+Do the [Indoor Voice problem](https://cs50.harvard.edu/python/2022/psets/0/indoor/) from Harvard's CS50-P course, but you can skip the "How To Submit" part at the end.
+
+### Making Faces
+
+If you are feeling:
+{: .d-inline-block }
+
+More Comfy
+{: .label .label-red }
+
+Do the [Making Faces problem](https://cs50.harvard.edu/python/2022/psets/0/faces/) from Harvard's CS50-P course. See if you can do it via string functions (not *if* statements). Skip the "How To Submit" part at the end.
+
 
