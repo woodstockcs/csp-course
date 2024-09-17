@@ -3,12 +3,15 @@ title: Home
 nav_order: 1
 layout: home
 ---
+
 {: .important-title }
 > Quick Links
 >
 > - [VS Code](https://cs50.dev)
-> - [Request a Quiz Retake](https://docs.google.com/forms/d/1ERcNJ94x99dRW7qIGC7rCa6znBglOkGqYCMGgHVOCx0/edit)
+> - [Our Google Classroom](https://classroom.google.com/w/NzA4MjAxNTg5MTUx/t/all)
+> - [Request a Quiz Retake](https://docs.google.com/forms/d/e/1FAIpQLSc07ncTcubrznE50KhfxI8mO76cPx7u08lYJcwJSDu3ugwt9w/viewform)
 >
+
 
 # Home
 
