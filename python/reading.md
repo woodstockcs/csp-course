@@ -1,5 +1,5 @@
 ---
-title: Reading: Digital Explosion
+title: Reading. Digital Explosion
 parent: Python
 nav_order: 4
 layout: default
