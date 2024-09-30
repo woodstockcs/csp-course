@@ -38,7 +38,7 @@ The digital explosion is creating both opportunities and risks. Many of both wil
 > ```
 
 {: .highlight-title }
-> 1.3: Opinion Prompt (Optional)
+> 1.3: (OPTIONAL) Opinion Prompt
 >
 > The author mentions that the digital explosion is "destroying old assumptions about our privacy, identity, and control of our lives." Highlight a specific sentence or phrase from this section that you find particularly thought-provoking regarding these changes. In the margin nearby your highlight, write THREE WORDS that will help you remember why you selected that passage to highlight. Here are some options, but feel free to write a different three words:
 > - surprising new perspective
