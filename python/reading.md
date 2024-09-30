@@ -186,3 +186,18 @@ Bits represented Nicolette's image as it flowed from her own computer to HireVue
 > - humans as numbers
 > - yes/no job fate
 > - machines judging humans
+
+---
+## Attribution
+
+The text in this document is excerpted from:
+
+"Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion" by Hal Abelson, Ken Ledeen, and Harry Lewis.
+
+The original text has been modified for this educational exercise by adding additional headings and inline questions.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+---
